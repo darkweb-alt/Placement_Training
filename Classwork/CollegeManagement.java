@@ -6,10 +6,6 @@ class Management {
         System.out.println("This is Management");
     }
 }
-
-
-
-
 class Schools extends Management {
 
     String schoolName = "School";
