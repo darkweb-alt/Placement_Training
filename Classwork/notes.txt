@@ -1,0 +1,7 @@
+management
+
+schools      college   placemenet
+
+teaccher   professors      staffs    company   training
+wrker       transport      training
+student      students       student
