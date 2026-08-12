@@ -1,5 +1,6 @@
 // Instance block, static block and local block
 
+package Aug_11_2026;
 
 public class Blocks {
     {

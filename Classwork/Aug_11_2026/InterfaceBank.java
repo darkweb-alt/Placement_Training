@@ -1,3 +1,5 @@
+package Aug_11_2026;
+
 public interface InterfaceBank {
 
     void deposit(double amount);
